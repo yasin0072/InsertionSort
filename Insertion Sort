@@ -1,0 +1,15 @@
+Insertion Sort Steps:
+  [22,27,16,2,18,6]
+  [2,27,16,22,18,6] 
+  [2,6,16,22,18,27]
+  [2,6,16,18,22,27]
+
+Time Complexity:
+  Best: O(n)
+      [2,6,16,18,22,27]
+  Average: O(n^2)
+      [2,27,16,22,18,6] 
+  Worst: O(n^2)
+      [27,22,18,16,6,2]
+      
+While array is sorted ([2,6,16,18,22,27]) searching for "18" is an example of average case.
