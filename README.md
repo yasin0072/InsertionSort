@@ -1,5 +1,5 @@
-# InsertionSort
-Patika dev Insertion Sort projesi.
+
+Patika dev Veri Yapıları ve Algoritmalar projeleri.
 
 Patika: www.patika.dev
 
